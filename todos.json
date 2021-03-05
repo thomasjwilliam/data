@@ -1,6 +1,14 @@
-{
-  "status": "ok",
-  "items": [{
-    "id": "1"
-  }]
-}
+[
+  {
+    "id": "5f5eeb9b-65e0-4a1b-b95b-234a8776ca3c",
+    "title": "Eat with fingers"
+  },
+  {
+    "id": "61a1d267-f76f-4fc4-992f-19810c91f268",
+    "title": "Walk Santiago de Compostela"
+  },
+  {
+    "id": "1d84a173-16d4-4e24-b293-fab4c42ea87a",
+    "title": "Marte - El espejo rojo"
+  }
+]
