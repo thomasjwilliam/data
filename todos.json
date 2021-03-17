@@ -28,5 +28,19 @@
     "title": "Check out some exhibitions at the MNAC",
     "url": "https://www.museunacional.cat/en/exhibitions",
     "note": "Above link you can check present and future upcoming events"
+  },
+  {
+    "id": "99f6fc93-a8b8-4560-ab48-48efea3ff753",
+    "title": "The endless war - MNAC",
+    "url": "https://www.museunacional.cat/en/endless-war-antoni-campana",
+    "starts": "2021-09-30",
+    "ends": "2021-07-18"
+  },
+  {
+    "id": "0965574b-aa76-4a24-9624-02161d62eaa8",
+    "title": "Gaudi - MNAC",
+    "url": "https://www.museunacional.cat/en/gaudi",
+    "starts": "2021-09-30",
+    "ends": "2022-01-22"
   }
 ]
